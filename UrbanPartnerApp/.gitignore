@@ -1,0 +1,29 @@
+# Dependencies - NEVER commit these (huge, auto-generated)
+node_modules/
+
+# Expo generated files
+.expo/
+dist/
+web-build/
+
+# Native build folders (generated when you build APK)
+android/
+ios/
+
+# Environment variables (keep secrets safe)
+.env
+.env.local
+.env.production
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor folders
+.vscode/
+.idea/

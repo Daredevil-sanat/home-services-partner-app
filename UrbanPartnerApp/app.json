@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Urban Partner",
+    "slug": "urban-partner-app",
+    "version": "1.0.0",
+    "sdkVersion": "54.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.urbanpartner.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1D4ED8"
+      },
+      "package": "com.urbanpartner.app"
+    }
+  }
+}
